@@ -16,8 +16,8 @@ You can find me on  [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]  [![Facebook][3.2
 [1.2]: https://github.com/gov466/gov466/blob/master/Images/twitter.jpg (twitter icon without padding)
 [2.2]: https://github.com/gov466/gov466/blob/master/Images/linkedin.jpg (LinkedIn icon without padding)
 [3.2]: https://github.com/gov466/gov466/blob/master/Images/facebook.jpg (Facebook icon without padding)
-[4.2]: https://github.com/gov466/gov466/blob/master/Images/instagram.jpg (Facebook icon without padding)
-[5:2]: https://github.com/gov466/gov466/blob/master/Images/youtube.jpg (Facebook icon without padding)
+[4.2]: https://github.com/gov466/gov466/blob/master/Images/instagram.jpg (instagram icon without padding)
+[5:2]: https://github.com/gov466/gov466/blob/master/Images/youtube.jpg ( youtube without padding)
 
 <!-- Links to your social media accounts -->
 
