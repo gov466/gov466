@@ -1,5 +1,11 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+
+
+Technologies and Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-EmbeddedC-informational?style=flat&logo=EmbeddedC&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=Make&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/MCU-ARM-informational?style=flat&logo=beaglebone&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-Proteus-informational?style=flat&logo=proteus&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-EasyEda-informational?style=flat&logo=easyeda&logoColor=white&color=2bbc8a)
+
 <!--
 **gov466/gov466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
