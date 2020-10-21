@@ -1,15 +1,20 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+My name is Govind Raj and I'm a Embedded System Engineer. I'm from India, living in Canada and currently doing my post graduate diploma in embedded systems engineering design course at lambton in toronto.
 
 
-Technologies and Tools
+ 
+
+You can find me on  [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]  [![Facebook][3.2]][3] [![Youtube][5.2]][5] [![Instagram][4.2]][4] 
+
+## 🔧 Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-EmbeddedC-informational?style=flat&logo=EmbeddedC&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=Make&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/MCU-ARM-informational?style=flat&logo=beaglebone&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-Proteus-informational?style=flat&logo=proteus&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-EasyEda-informational?style=flat&logo=easyeda&logoColor=white&color=2bbc8a)
 
 
 <!-- Actual text -->
 
-You can find me on  [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]  [![Facebook][3.2]][3] [![Youtube][5.2]][5] [![Instagram][4.2]][4] 
+
 
 <!-- Icons -->
 
@@ -17,7 +22,7 @@ You can find me on  [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]  [![Facebook][3.2
 [2.2]: https://github.com/gov466/gov466/blob/master/Images/linkedin.jpg (LinkedIn icon without padding)
 [3.2]: https://github.com/gov466/gov466/blob/master/Images/facebook.jpg (Facebook icon without padding)
 [4.2]: https://github.com/gov466/gov466/blob/master/Images/instagram.jpg (instagram icon without padding)
-[5:2]: https://github.com/gov466/gov466/blob/master/Images/youtube.jpg ( youtube icon without padding)
+[5.2]: https://github.com/gov466/gov466/blob/master/Images/youtube.jpg (youtube icon without padding)
 
 <!-- Links to your social media accounts -->
 
@@ -41,4 +46,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[]
+
