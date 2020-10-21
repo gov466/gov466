@@ -9,7 +9,7 @@ Technologies and Tools
 
 <!-- Actual text -->
 
-You can find me on  [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]  [![Facebook][3.2]][3] [![Instagram][4.2]][4] [![Youtube][5.2]][5]
+You can find me on  [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]  [![Facebook][3.2]][3] [![Youtube][5.2]][5] [![Instagram][4.2]][4] 
 
 <!-- Icons -->
 
@@ -17,7 +17,7 @@ You can find me on  [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]  [![Facebook][3.2
 [2.2]: https://github.com/gov466/gov466/blob/master/Images/linkedin.jpg (LinkedIn icon without padding)
 [3.2]: https://github.com/gov466/gov466/blob/master/Images/facebook.jpg (Facebook icon without padding)
 [4.2]: https://github.com/gov466/gov466/blob/master/Images/instagram.jpg (instagram icon without padding)
-[5:2]: https://github.com/gov466/gov466/blob/master/Images/youtube.jpg ( youtube without padding)
+[5:2]: https://github.com/gov466/gov466/blob/master/Images/youtube.jpg ( youtube icon without padding)
 
 <!-- Links to your social media accounts -->
 
