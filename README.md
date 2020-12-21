@@ -13,7 +13,7 @@ You can find me on  [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]  [![Facebook][3.2
 
 
 <!-- Actual text -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gov466&show_icons=true)
+ <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=gov466&show_icons=true)
 
 
 <!-- Icons -->
