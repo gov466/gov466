@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Govind Raj and I'm a Embedded System Engineer. I'm from India, living in Canada and currently doing my post graduate diploma in embedded systems engineering design course at lambton in toronto.
+My name is Govind Raj and I'm a Embedded System Engineer. I'm from India, living in Canada and completed  my post graduate diploma in embedded systems engineering design course at lambton in toronto and open to work.
 
 
  
