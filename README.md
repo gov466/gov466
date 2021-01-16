@@ -32,6 +32,7 @@ You can find me on  [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]  [![Facebook][3.2
 [4]: https://www.instagram.com/govindraj7809/
 [5]: https://www.youtube.com/feed/my_videos
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gov466&layout=compact)](https://github.com/gov466/github-readme-stats)
 <!--
 **gov466/gov466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
